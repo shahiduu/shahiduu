@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shahid Nawaz
 - 👀 I’m a full Stack Developer 
-- 🌱 I’m currently working on laraael
-- 💞️ I’m looking to collaborate on backend development
+- 🌱 I’m currently working on laravel
+- 💞️ I’m looking to collaborate on full Stack development
 - 📫 How to reach me shahidnawaz.edu.pk@gmail.com
 
 <!---
